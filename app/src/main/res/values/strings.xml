@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rich Life</string>
+    <string name="tip_of_day">Совет дня:</string>
+    <string name="tip1">День 1</string>
+    <string name="desc1">Не сдавайся!</string>
+    <string name="tip2">День 2</string>
+    <string name="desc2">Будь сильным!</string>
+    <string name="tip3">День 3</string>
+    <string name="desc3">Работай! Только работай!</string>
+    <string name="tip4">День 4</string>
+    <string name="desc4">Программируй!</string>
+    <string name="tip5">День 5</string>
+    <string name="desc5">Играй в хорошие игры!</string>
+    <string name="tip6">День 6</string>
+    <string name="desc6">Пей пиво!</string>
+    <string name="tip7">День 7</string>
+    <string name="desc7">Побеждай!</string>
+    <string name="tip8">День 8</string>
+    <string name="desc8">Прошерсти всё Авито!</string>
+    <string name="tip9">День 9</string>
+    <string name="desc9">Зарабатывай!</string>
+    <string name="tip10">День 10</string>
+    <string name="desc10">Красава! Эта Lamborghini Diablo твоя!</string>
+</resources>
